@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azimazim3000-ctrl.github.io/ic-group-strategy/sitemap.xml
